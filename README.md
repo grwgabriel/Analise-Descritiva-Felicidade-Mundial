@@ -16,7 +16,8 @@ O objetivo dessa análise é identificar quais variáveis influenciam e como inf
 
 ## Como acessar a análise
 
-* Entre no arquivo .ipynb (Colaboratory)
+* Entre no arquivo .ipynb (Colaboratory);
+* Para visualizar a análise sem nenhum bug de visualização, abra o arquivo no Colab clicando no link logo no início da página.
 
 ## Ferramentas utilizadas
 
