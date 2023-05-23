@@ -1,6 +1,6 @@
 <div align="center">
 
-# Análise de dados descritiva em Python: Relatório mundial de felicidade
+# Análise de dados em Python: Relatório mundial de felicidade
 
 <img src="https://kardecriopreto.com.br/wp-content/uploads/2017/08/felicidade-o-que-%C3%A9-isso-1024x576.jpg" width="700">
 </div>
